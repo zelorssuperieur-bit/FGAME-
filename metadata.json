@@ -1,0 +1,6 @@
+{
+  "name": "FGAME",
+  "description": "FGAME – Réseau Social Nouvelle Génération : Création, Vidéos, Messagerie, Tournois & Monétisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
